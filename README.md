@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/6926dbbe73b43f4ec5fe67c721489033.gif">
 
-- 🌱 I’m currently learning **Flask, Streamlit, PyTorch, TensorFlow,**
+- 🌱 I’m currently learning **Flask, AWS, PyTorch, TensorFlow,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bishal0001/Project_Portfolio](https://github.com/Bishal0001/Project_Portfolio)
 
